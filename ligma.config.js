@@ -22,6 +22,7 @@ module.exports = {
         "DFSGraphList",
         "Trie",
         "BFSGraphMatrix",
+        "BFSGraphList",
         "Map",
         "MinHeap",
         "RingBuffer",
